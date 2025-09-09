@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Balaze-a-trial2.0
-my flutter code and all
-=======
-# code_wipe
+# test_linux
 
 A new Flutter project.
 
@@ -18,4 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> 43e730c (my flutter code)
